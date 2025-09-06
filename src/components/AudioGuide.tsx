@@ -30,7 +30,7 @@ const audioGuides = [
     size: "125 MB",
     offline: true,
     youtubeId: "X7tgD2W_cNs", // Keep as fallback
-    audioSrc: "/audio/your-guide.webm", // Your uploaded webm audio file
+    audioSrc: "/aud_eng.mp3", // Your uploaded webm audio file
     useLocalAudio: true, // Flag to use local audio
   },
   {
